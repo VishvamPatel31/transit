@@ -1,1 +1,0 @@
-# avolta-autoguard-mobile-app
